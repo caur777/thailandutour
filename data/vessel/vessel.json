@@ -1,0 +1,92 @@
+{
+    "id":"vessel_catalog",
+    "title":"Каталог Яхт",
+    "category":[
+        {
+            "id":"speedboat",
+            "title":"Спидботы",
+            "vessel":[
+                {"id":"moana", "title":"moana"},
+                {"id":"orion", "title":"orion"},
+                {"id":"viona","title":"viona"},
+                {"id":"ocean_pearl","title":"ocean_pearl"}
+            ]
+        },
+        {
+            "id":"catamaran",
+            "title":"Катамараны",
+            "subcategory":[
+                {
+                    "id":"sailing",
+                    "title":"sailing",
+                    "vessel":[
+                        {"id":"blue_aqua", "title":"blue_aqua"},
+                        {"id":"blue_castle", "title":"blue_castle"},
+                        {"id":"blue_metis", "title":"blue_metis"},
+                        {"id":"blueket", "title":"blueket"},
+                        {"id":"blue_wings", "title":"blue_wings"},
+                        {"id":"bon_voyage", "title":"bon_voyage"},
+                        {"id":"bohemian", "title":"bohemian"},
+                        {"id":"calypso", "title":"calypso"},
+                        {"id":"ella", "title":"ella"},
+                        {"id":"lemon", "title":"lemon"},
+                        {"id":"peach", "title":"peach"},
+                        {"id":"ombre", "title":"ombre"},
+                        {"id":"legacy", "title":"legacy"},
+                        {"id":"tahiti", "title":"tahiti"},
+                        {"id":"vala", "title":"vala"},
+                        {"id":"white_marlin", "title":"white_marlin"},
+                        {"id":"namaste", "title":"namaste"},
+                        {"id":"the_best", "title":"the_best"},
+                        {"id":"the_one", "title":"the_one"},
+                        {"id":"ameray", "title":"ameray"},
+                        {"id":"wildcat", "title":"wildcat"},
+                        {"id":"coco", "title":"coco"},
+                        {"id":"lobster", "title":"lobster"},
+                        {"id":"myra", "title":"myra"},
+                        {"id":"pepper", "title":"pepper"},
+                        {"id":"senna", "title":"senna"},
+                        {"id":"summer", "title":"summer"},
+                        {"id":"nautitec", "title":"nautitec"},
+                        {"id":"satisfaction", "title":"satisfaction"}
+                    ]
+                },
+                {
+                    "id":"power",
+                    "title":"power",
+                    "vessel":[
+                        {"id":"f1", "title":"f1"},
+                        {"id":"tequila", "title":"tequila"},
+                        {"id":"whiskey", "title":"whiskey"}
+                    ]
+                }
+                    
+            ]
+        },
+        {
+            "id":"motoryacht",
+            "title":"motoryacht",
+            "vessel":[
+                        {"id":"bertram", "title":"bertram"},
+                        {"id":"nona", "title":"nona"},
+                        {"id":"shaina", "title":"shaina"},
+                        {"id":"origin", "title":"origin"},
+                        {"id":"azimut_46", "title":"azimut"},
+                        {"id":"grand_banks", "title":"grand_banks"},
+                        {"id":"cranchi", "title":"cranchi"},
+                        {"id":"princess", "title":"princess"},
+                        {"id":"siam_princess", "title":"siam_princess"},
+                        {"id":"azimut_50", "title":"azimut"},
+                        {"id":"yacht", "title":"yacht"},
+                        {"id":"vodka", "title":"vodka"}
+                    ]
+        },
+        {
+            "id":"longtail",
+            "title":"longtail",
+            "vessel":[
+                {"id":"kiri","title":"Kiri"}
+            ]
+        }
+    ]
+}
