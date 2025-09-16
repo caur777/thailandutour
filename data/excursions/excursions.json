@@ -2,6 +2,21 @@
   "id": "phuket_excursions_updated",
   "title": "Экскурсии Пхукета",
   "category": [
+       {
+        "id": "land_tour",
+        "title": "Наземные туры",
+        "tour":[
+            {"id": "sunrise_adventure", "title":"Утро в Пханг Нга без толп"},
+            {"id": "phang_nga", "title":" Невероятная Пханг Нга"},
+            {"id": "avatar", "title":"Мир Аватара"},
+            {"id": "rafting_elephant_atv", "title":"Рафтинг + Слоны + ATV"},
+            {"id": "Khao_lak", "title":"Кхао Лак Сафари"},
+            {"id": "krabi", "title":"Краби за 1 день"},
+            {"id": "cheow_lan_samet_nangshe", "title":"Озеро Чео Лан + Самет Нангше"},
+            {"id": "cheow_lan_kao_sok", "title":"Озеро Чео Лан + Као Сок 2 дня"},
+            {"id": "city_tour", "title":"Обзорная по Пхукету"}
+        ]
+    },
     {
         "id": "sea_tour",
         "title": "Морские туры",
@@ -9,11 +24,9 @@
          {"id": "4_pearls", "title": "4 Жемчужины Андамана"},
          {"id": "5_pearls", "title": "5 Жемчужин Андамана"},
          {"id": "11_islands", "title": "11 островов за 1 день"},
-         {"id": "phiphi_sunrise", "title": "Пхи Пхи на рассвете"},
-         {"id": "phiphi_bamboo_fishing", "title": "Пхи Пхи + Бамбу + Рыбалка"},
-         {"id": "phiphi_2days_sunrise", "title": "Пхи Пхи 2 дня без толп"},
+         {"id": "phiphi_1day", "title": "Пхи Пхи на рассвете"},
          {"id": "phiphi_2days", "title": "Пхи Пхи за 2 дня"},
-         {"id": "coral", "title": "Только Коралловые острова"},
+         {"id": "coral", "title": "Коралловые острова"},
          {"id": "racha_coral", "title": "Коралловые острова + Рача"},
          {"id": "racha_coral_fishing", "title": "Коралловые острова + Рача с рыбалкой"},
          {"id": "fishing_sunrise", "title": "Рыбалка на рассвете"},
@@ -37,21 +50,6 @@
             {"id":"hug_ocean", "title": "HUG OCEAN Яхта"}
         ]
     },
-    {
-        "id": "land_tour",
-        "title": "Наземные туры",
-        "tour":[
-            {"id": "sunrise_adventure", "title":"Утро в Пханг Нга без толп"},
-            {"id": "phang_nga", "title":" Невероятная Пханг Нга"},
-            {"id": "avatar", "title":"Мир Аватара"},
-            {"id": "rafting_elephant_atv", "title":"Рафтинг + Слоны + ATV"},
-            {"id": "Khao_lak", "title":"Кхао Лак Сафари"},
-            {"id": "krabi", "title":"Краби за 1 день"},
-            {"id": "cheow_lan_samet_nangshe", "title":"Озеро Чео Лан + Самет Нангше"},
-            {"id": "cheow_lan_kao_sok", "title":"Озеро Чео Лан + Као Сок 2 дня"},
-            {"id": "city_tour", "title":"Обзорная по Пхукету"}
-        ]
-    },
      {
         "id": "adventures",
         "title": "Активные приключения",
@@ -69,11 +67,11 @@
         "id": "shows",
         "title": "Шоу и Развлечения",
         "tour":[
-            {"id":"simon_cabaret", "title":"Шоу трансвеститов"},
-            {"id":"siam_niramit", "title":"Siam Niramit"},
-            {"id":"carnival_magic", "title":"Carnival Magic"},
-            {"id":"fantasea", "title":"Fantasea"},
-            {"id":"aqua_circus", "title":"Aqua Circus"}
+            {"id":"simon_cabaret", "title":"Шоу трансвеститов Simon Cabaret"},
+            {"id":"siam_niramit", "title":"Шоу Siam Niramit"},
+            {"id":"carnival_magic", "title":"Парк Carnival Magic"},
+            {"id":"fantasea", "title":"Парк Fantasea"},
+            {"id":"aqua_circus", "title":"Шоу Aqua Circus"}
         ]
     },
     {

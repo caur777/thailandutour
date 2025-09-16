@@ -7,4 +7,4 @@ TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 ADMIN_CHAT = "7904854267"        # или числовой chat_id
 
 # Для кнопки «Связаться с менеджером» в меню
-MANAGER_USERNAME = "utourthailand"  # без @
+MANAGER_USERNAME = "thailandutour_rus"  # без @
