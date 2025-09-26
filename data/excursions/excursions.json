@@ -6,78 +6,78 @@
         "id": "land_tour",
         "title": "🏞️ Наземные туры",
         "tour":[
-            {"id": "sunrise_adventure", "title":"Утро в Пханг Нга без толп"},
-            {"id": "phang_nga", "title":" Невероятная Пханг Нга"},
-            {"id": "avatar", "title":"Мир Аватара"},
-            {"id": "rafting_elephant_atv", "title":"Рафтинг + Слоны + ATV"},
-            {"id": "Khao_lak", "title":"Кхао Лак Сафари"},
-            {"id": "krabi", "title":"Краби за 1 день"},
-            {"id": "cheow_lan_samet_nangshe", "title":"Озеро Чео Лан + Самет Нангше"},
-            {"id": "cheow_lan_kao_sok", "title":"Озеро Чео Лан + Као Сок 2 дня"},
-            {"id": "city_tour", "title":"Обзорная по Пхукету"}
+            {"id": "sunrise_adventure", "title":"🌅 Утро в Пханг Нга без толп"},
+            {"id": "phang_nga", "title":"🛶 Невероятная Пханг Нга"},
+            {"id": "avatar", "title":"🌴 Мир Аватара"},
+            {"id": "rafting_elephant_atv", "title":"🌊🐘🏍️ Рафтинг + Слоны + ATV"},
+            {"id": "Khao_lak", "title":"🌳 Кхао Лак Сафари"},
+            {"id": "krabi", "title":"🏖️ Краби за 1 день"},
+            {"id": "cheow_lan_samet_nangshe", "title":"🏕️ Озеро Чео Лан + Самет Нангше"},
+            {"id": "cheow_lan_kao_sok", "title":"⛰️ Озеро Чео Лан + Као Сок 2 дня"},
+            {"id": "city_tour", "title":"🏙️ Обзорная по Пхукету"}
         ]
     },
     {
         "id": "sea_tour",
         "title": "🌊 Морские туры",
         "tour": [
-         {"id": "4_pearls", "title": "4 Жемчужины Андамана"},
-         {"id": "5_pearls", "title": "5 Жемчужин Андамана"},
-         {"id": "11_islands", "title": "11 островов за 1 день"},
-         {"id": "phiphi_1day", "title": "Пхи Пхи на рассвете"},
-         {"id": "phiphi_2days", "title": "Пхи Пхи за 2 дня"},
-         {"id": "coral", "title": "Коралловые острова"},
-         {"id": "racha_coral", "title": "Коралловые острова + Рача"},
-         {"id": "racha_coral_fishing", "title": "Коралловые острова + Рача с рыбалкой"},
-         {"id": "fishing_sunrise", "title": "Рыбалка на рассвете"},
-         {"id": "jetski", "title": "6 островов на Джетски"}
+         {"id": "4_pearls", "title": "💎 4 Жемчужины Андамана"},
+         {"id": "5_pearls", "title": "✨ 5 Жемчужин Андамана"},
+         {"id": "11_islands", "title": "🏝️ 11 островов за 1 день"},
+         {"id": "phiphi_1day", "title": "🌅 Пхи Пхи на рассвете"},
+         {"id": "phiphi_2days", "title": "⛵ Пхи Пхи за 2 дня"},
+         {"id": "coral", "title": "🐠 Коралловые острова"},
+         {"id": "racha_coral", "title": "🏖️ Коралловые острова + Рача"},
+         {"id": "racha_coral_fishing", "title": "🎣 Коралловые острова + Рача с рыбалкой"},
+         {"id": "fishing_sunrise", "title": "🌄🎣 Рыбалка на рассвете"},
+         {"id": "jetski", "title": "🚤 6 островов на Джетски"}
         ]
     },
     {
         "id":"sea_tour_big_boat",
         "title": "🛥️ Морские туры на больших яхтах",
         "tour":[
-         {"id": "smile_rainbow", "title":"Smile Rainbow катамаран"},
-         {"id": "sunwind", "title":"Sunwind катамаран"},
-         {"id": "hype_catamaran", "title":"HYPE катамаран"},
-         {"id": "hype_yacht", "title":"HYPE Яхта"}
+         {"id": "smile_rainbow", "title":"🌈 Smile Rainbow катамаран"},
+         {"id": "sunwind", "title":"☀️🌬️ Sunwind катамаран"},
+         {"id": "hype_catamaran", "title":"🎶🥂 HYPE катамаран"},
+         {"id": "hype_yacht", "title":"🍾🛥️ HYPE Яхта"}
         ]
     },
     {
         "id":"diving",
         "title": "🤿 Дайвинг",
         "tour":[
-            {"id":"hug_ocean", "title": "HUG OCEAN Яхта"}
+            {"id":"hug_ocean", "title": "🌊🐠 HUG OCEAN Яхта"}
         ]
     },
      {
         "id": "adventures",
         "title": "🚀 Активные приключения",
         "tour":[
-            {"id": "andamanda", "title":"Andamanda аквапарк"},
-            {"id": "hanuman_world", "title":"Мир Ханумана"},
-            {"id": "flying_hanuman", "title":"Полет Ханумана"},
-            {"id": "rafting_elephant", "title":"Рафтинг + Слоны"},
-            {"id": "rafting_elephant_atv", "title":"Рафтинг + ATV + Слоны"},
-            {"id": "atv_buggy_elephant", "title":"ATV / Багги / Слоны"},
-            {"id": "elephant", "title":"Слоны"}
+            {"id": "andamanda", "title":"💦 Andamanda аквапарк"},
+            {"id": "hanuman_world", "title":"🌀 Мир Ханумана"},
+            {"id": "flying_hanuman", "title":"🌲🪂 Полет Ханумана"},
+            {"id": "rafting_elephant", "title":"🌊🐘 Рафтинг + Слоны"},
+            {"id": "rafting_elephant_atv", "title":"🌊🏍️🐘 Рафтинг + ATV + Слоны"},
+            {"id": "atv_buggy_elephant", "title":"🏎️🐘 ATV / Багги / Слоны"},
+            {"id": "elephant", "title":"🐘 Слоны"}
         ]
     },
     {
         "id": "shows",
         "title": "🎭 Шоу и Развлечения",
         "tour":[
-            {"id":"simon_cabaret", "title":"Шоу трансвеститов Simon Cabaret"},
-            {"id":"siam_niramit", "title":"Шоу Siam Niramit"},
-            {"id":"carnival_magic", "title":"Парк Carnival Magic"},
-            {"id":"fantasea", "title":"Парк Fantasea"}
+            {"id":"simon_cabaret", "title":"💃 Шоу трансвеститов Simon Cabaret"},
+            {"id":"siam_niramit", "title":"🏯 Шоу Siam Niramit"},
+            {"id":"carnival_magic", "title":"🎆 Carnival Magic"},
+            {"id":"fantasea", "title":"🐘 Шоу Fantasea"}
         ]
     },
     {
         "id": "beach_club",
         "title": "🍹 Пляжные Клубы",
         "tour":[
-            {"id": "yona", "title":"Yona Плавучий клуб"}
+            {"id": "yona", "title":"🌴💃 Yona Плавучий клуб"}
         ]
     }
   ] 
